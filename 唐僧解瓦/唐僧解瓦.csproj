@@ -114,6 +114,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BinLibrary\Utils\" />
+    <Folder Include="建筑\Utils\" />
+    <Folder Include="精装\Utils\" />
+    <Folder Include="结构\Utils\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
